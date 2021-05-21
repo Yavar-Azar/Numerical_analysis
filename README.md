@@ -8,10 +8,11 @@ Here I am collecting my documentation on numerical analysis
 
 ## PDE TYPES
 
+\begin{equation}
+\alpha=2c
+\end{equation}
 
-\[
-\alpha
-\]
+
 
 
 
