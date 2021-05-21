@@ -9,8 +9,10 @@ Here I am collecting my documentation on numerical analysis
 ## PDE TYPES
 
 
+\[
+\alpha
+\]
 
-$\alpha$
 
 
 
