@@ -1,5 +1,7 @@
 # Numerical_analysis
 
+Test first line
+
 Here I am collecting my documentation on numerical analysis
 
 
@@ -11,10 +13,6 @@ Here I am collecting my documentation on numerical analysis
 \begin{equation}
 \alpha=2c
 \end{equation}
-
-
-
-
 
 
 
