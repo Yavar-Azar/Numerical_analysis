@@ -1,0 +1,17 @@
+&inputpp
+   prefix = 'oleic-surf'
+   fileout ='ol.axsf'
+   lcharge = .FALSE.
+   lforces = .FALSE.
+   ldynamics = .t.
+   nframes = 380
+   nsp=4
+   nat(1)=24
+   species(1)=22
+   nat(2)=50
+   species(2)=8
+   nat(3)=18
+   species(3)=6
+   nat(4)=34
+   species(4)=1
+/
